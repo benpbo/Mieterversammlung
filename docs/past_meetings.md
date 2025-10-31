@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Past meetings
 
 {% for meeting in site.past_meetings %}
