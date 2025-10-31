@@ -12,4 +12,4 @@ Currently none, stay tuned!
 
 ## Past Meetings
 
-Invitations, transcriptions and summeries of [past meetings](/past_meetings) are archived for future reference.
+Invitations, transcriptions and summeries of [past meetings]({{ "/past_meetings" | absolute_url }}) are archived for future reference.
