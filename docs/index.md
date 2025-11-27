@@ -1,10 +1,29 @@
 # Welcome to Our Tenant Community
 
-We are the Excelsiorhaus Mietergemeinschaft — a group of tenants coming together to share information, support one another, and make our home an even better place to live.
-Everyone who lives in Excelsiorhaus is welcome to join. Whether you’ve been here for years or just moved in, this is your community too!
+We are a group of neighbors who care about creating a warm, welcoming, and well-maintained home for everyone in our building.
+Over time,
+we have shared experiences,
+exchanged impressions,
+and learned that many of us want similar things:
+a comfortable home,
+fair treatment,
+and a strong sense of community.
 
-We want this house to become a welcoming home for all. We as neighbors build a community that supports and cares for each other.
-Life is better if you have good neighbors to rely on and to share time with.
+Our initiative focuses on bringing residents together to talk openly,
+offer help,
+and work constructively toward shared goals.
+Whether it's
+exchanging information about tenant rights,
+discussing building concerns,
+or organizing small social moments,
+we believe that good neighbors make life better.
+
+We invite everyone in the house to participate,
+share their impressions,
+and help shape a home where people feel
+valued,
+heard,
+and connected.
 
 ## Upcoming Meetings
 
